@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a rel="me" href="https://mastodon.scot/@andrewmarmion"></a>
+<a rel="me nofollow" href="https://mastodon.scot/@andrewmarmion"></a>
